@@ -21,5 +21,8 @@
     <ClCompile Include="D:\dependence_OPENGL\glad.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="vs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

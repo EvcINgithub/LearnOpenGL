@@ -1,19 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\LearnOpenGL\\orign\\",
+  "WorkspaceRootPath": "E:\\LearnOpenGL\\LearnOpenGL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{349FF5BD-0318-448C-8B7C-77F684DDD5B4}|orign.vcxproj|E:\\LearnOpenGL\\orign\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{349FF5BD-0318-448C-8B7C-77F684DDD5B4}|orign.vcxproj|E:\\LearnOpenGL\\LearnOpenGL\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{349FF5BD-0318-448C-8B7C-77F684DDD5B4}|orign.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\LearnOpenGL\\DynamicEnvironmentMap\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dependence_OPENGL\\include\\Shader\\Blending\\vs.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dependence_OPENGL\\include\\Myfunction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\LearnOpenGL\\LearnOpenGL\\resource\\shader\\fs_blending.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resource\\shader\\fs_blending.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{349FF5BD-0318-448C-8B7C-77F684DDD5B4}|orign.vcxproj|D:\\DEPENDENCE_OPENGL\\INCLUDE\\WINDOW\\WINDOW.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dependence_OPENGL\\include\\Shader\\Blending\\fs.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,52 +24,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Window.h",
-              "DocumentMoniker": "D:\\dependence_OPENGL\\include\\Window\\Window.h",
-              "ToolTip": "D:\\dependence_OPENGL\\include\\Window\\Window.h",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-09T03:23:42.663Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Myfunction.h",
-              "DocumentMoniker": "D:\\dependence_OPENGL\\include\\Myfunction.h",
-              "ToolTip": "D:\\dependence_OPENGL\\include\\Myfunction.h",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-09T03:21:35.573Z",
+              "Title": "fs_blending.fs",
+              "DocumentMoniker": "E:\\LearnOpenGL\\LearnOpenGL\\resource\\shader\\fs_blending.fs",
+              "RelativeDocumentMoniker": "resource\\shader\\fs_blending.fs",
+              "ToolTip": "E:\\LearnOpenGL\\LearnOpenGL\\resource\\shader\\fs_blending.fs",
+              "RelativeToolTip": "resource\\shader\\fs_blending.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-10T03:14:25.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fs.fs",
+              "DocumentMoniker": "D:\\dependence_OPENGL\\include\\Shader\\Blending\\fs.fs",
+              "ToolTip": "D:\\dependence_OPENGL\\include\\Shader\\Blending\\fs.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-10T02:45:26.529Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "main.cpp",
-              "DocumentMoniker": "E:\\LearnOpenGL\\DynamicEnvironmentMap\\main.cpp",
-              "RelativeDocumentMoniker": "..\\DynamicEnvironmentMap\\main.cpp",
-              "ToolTip": "E:\\LearnOpenGL\\DynamicEnvironmentMap\\main.cpp",
-              "RelativeToolTip": "..\\DynamicEnvironmentMap\\main.cpp",
-              "ViewState": "AQIAAN4AAAAAAAAAAAAAAPYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-09T03:20:49.631Z",
+              "Title": "vs.vs",
+              "DocumentMoniker": "D:\\dependence_OPENGL\\include\\Shader\\Blending\\vs.vs",
+              "ToolTip": "D:\\dependence_OPENGL\\include\\Shader\\Blending\\vs.vs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-10T02:44:42.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "E:\\LearnOpenGL\\orign\\main.cpp",
+              "DocumentMoniker": "E:\\LearnOpenGL\\LearnOpenGL\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "E:\\LearnOpenGL\\orign\\main.cpp",
+              "ToolTip": "E:\\LearnOpenGL\\LearnOpenGL\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAANcAAAAAAAAAAAAQwO8AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-09T03:17:18.843Z",
               "EditorCaption": ""
